@@ -37,8 +37,8 @@
 
     pip3 install requests pysocks
 
-    cd CC-attack
+    cd /location
 
 ## Usage
 
-    python3 cc.py
+    python3 kill.py
